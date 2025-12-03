@@ -67,7 +67,8 @@ This repository contains a fully interactive Power BI dashboard for analyzing st
 ---
 
 ## 📂 Folder Structure
-/
+
+```
 ├── Result_Analysis.pbix
 ├── Students_Marks.xlsx
 ├── Screenshot.pdf
@@ -76,6 +77,7 @@ This repository contains a fully interactive Power BI dashboard for analyzing st
 ├── Picture2.png
 ├── Picture3.png
 └── README.md
+```
 
 ---
 
